@@ -1,0 +1,19 @@
+{
+    "incomeList": [{
+        "date": "2022-04-05",
+        "amount": 10,
+        "name": "Income 1"
+    }],
+    "categoryList": [{
+        "goal": 0,
+        "name": "Category 1",
+        "hasGoal": false,
+        "currentAmount": 25
+    }],
+    "expenseList": [{
+        "date": "2022-04-05",
+        "amount": 25,
+        "name": "Expense 1",
+        "category": "Category 1"
+    }]
+}

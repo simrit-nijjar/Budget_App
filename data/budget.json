@@ -1,0 +1,96 @@
+{
+    "incomeList": [
+        {
+            "date": "2022-01-01",
+            "amount": 1,
+            "name": "Income 1"
+        },
+        {
+            "date": "2022-01-01",
+            "amount": 1,
+            "name": "Income 4"
+        }
+    ],
+    "categoryList": [
+        {
+            "goal": 100,
+            "name": "Entertainment",
+            "hasGoal": true,
+            "currentAmount": 151
+        },
+        {
+            "goal": 0,
+            "name": "Shopping",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Health & Fitness",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Food & Dining",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Investment",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Fees & Charges",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Taxes",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Education",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Personal Care",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Travel",
+            "hasGoal": false,
+            "currentAmount": 0
+        },
+        {
+            "goal": 0,
+            "name": "Business Services",
+            "hasGoal": false,
+            "currentAmount": 0
+        }
+    ],
+    "expenseList": [
+        {
+            "date": "2022-01-01",
+            "amount": 1,
+            "name": "Expense 1",
+            "category": "Entertainment"
+        },
+        {
+            "date": "2002-02-28",
+            "amount": 150,
+            "name": "dsafas",
+            "category": "Entertainment"
+        }
+    ]
+}
